@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\bck2022-01\\.nuget\\packages\\": {}
+    "C:\\Users\\e.campodonico\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\serveru\\Sistemas\\ClienteFecha\\ClienteFecha\\ClienteFecha.csproj",
+      "projectUniqueName": "D:\\Users\\e.campodonico\\Documents\\csharp\\ClienteFecha\\ClienteFecha\\ClienteFecha.csproj",
       "projectName": "ClienteFecha",
-      "projectPath": "\\\\serveru\\Sistemas\\ClienteFecha\\ClienteFecha\\ClienteFecha.csproj",
-      "packagesPath": "C:\\Users\\bck2022-01\\.nuget\\packages\\",
-      "outputPath": "\\\\serveru\\Sistemas\\ClienteFecha\\ClienteFecha\\obj\\",
+      "projectPath": "D:\\Users\\e.campodonico\\Documents\\csharp\\ClienteFecha\\ClienteFecha\\ClienteFecha.csproj",
+      "packagesPath": "C:\\Users\\e.campodonico\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\e.campodonico\\Documents\\csharp\\ClienteFecha\\ClienteFecha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bck2022-01\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\e.campodonico\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
