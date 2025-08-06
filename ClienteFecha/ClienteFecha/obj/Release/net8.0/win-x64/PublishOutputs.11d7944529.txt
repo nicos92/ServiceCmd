@@ -1,0 +1,2 @@
+D:\Users\n.sandoval\Documents\csharp\ClienteFecha\ClienteFecha\bin\Release\net8.0\win-x64\publish\ClienteFecha.pdb
+D:\Users\n.sandoval\Documents\csharp\ClienteFecha\ClienteFecha\bin\Release\net8.0\win-x64\publish\ClienteFecha.exe

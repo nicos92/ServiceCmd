@@ -1,0 +1,13 @@
+Registrá el servicio con sc:
+
+powershell
+sc create MiServicio binPath= "C:\Ruta\al\exe\MiServicio.exe"
+
+(Opcional) Configuralo para que arranque con el sistema:
+powershell
+sc config MiServicio start= auto
+
+Iniciá el servicio:
+
+powershell
+sc start MiServicio

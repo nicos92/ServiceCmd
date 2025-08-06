@@ -1,0 +1,14 @@
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\bin\Debug\net8.0\ClienteFecha.exe
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\bin\Debug\net8.0\ClienteFecha.deps.json
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\bin\Debug\net8.0\ClienteFecha.runtimeconfig.json
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\bin\Debug\net8.0\ClienteFecha.dll
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\bin\Debug\net8.0\ClienteFecha.pdb
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\ClienteFecha.GeneratedMSBuildEditorConfig.editorconfig
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\ClienteFecha.AssemblyInfoInputs.cache
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\ClienteFecha.AssemblyInfo.cs
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\ClienteFecha.csproj.CoreCompileInputs.cache
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\ClienteFecha.dll
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\refint\ClienteFecha.dll
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\ClienteFecha.pdb
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\ClienteFecha.genruntimeconfig.cache
+\\serveru\Sistemas\ClienteFecha\ClienteFecha\obj\Debug\net8.0\ref\ClienteFecha.dll
